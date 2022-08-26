@@ -8,4 +8,4 @@
 - 🧑‍💻 Machine Learning Developer @ [Radial](https://www.linkedin.com/company/radialmed/?originalSubdomain=ir)
 - 🤔 Curious about Computational Neuroscience, Wireless Communication, and AI
 - 📖 Currently studying about MLOps and Machine Learning Models' Life cycles
-- 👯 Always willing to collaborate on interesting ideas
+- 🤝🏻 Always willing to collaborate on interesting ideas
